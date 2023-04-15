@@ -29,6 +29,7 @@ Hi there, I'm Ilhom 👋
 ### Interesting technologies which I'm going to learn in the future:
 <p align="left">
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=TYPESCRIPT&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=VUE.JS&logoColor=FFFFFF"/>
 </p>
                     
 ### Socials
