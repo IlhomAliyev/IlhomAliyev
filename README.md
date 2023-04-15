@@ -1,17 +1,22 @@
-Hi there, I'm Ilhom (Front-end Web Developer) 👋
+Hi there, I'm Ilhom 👋
 =============================================================================================================================
+
+👨🏻‍💻 I'm a frontend developer.<br/>
 
 ### Skills
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/CssModules-000000?style=for-the-badge&logo=cssmodules&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=React&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=REDUX&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=for-the-badge&logo=WEBPACK&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=VITE&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/ESlint-462fb9?style=for-the-badge&logo=eslint&logoColor=white" />  
+  <img src="https://img.shields.io/badge/GULP-dc4a4d?style=for-the-badge&logo=GULP&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack-1a72b6?style=for-the-badge&logo=webpack&logoColor=white" />
+  <img src="https://img.shields.io/badge/VITE-white?style=for-the-badge&logo=VITE&logoColor=f2ce30" />
 </p>
 
 ### Other skills
@@ -28,6 +33,12 @@ Hi there, I'm Ilhom (Front-end Web Developer) 👋
                     
 ### Socials
 <p align="left">
-  <a href="https://www.codepen.io/IlhomAliyev" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/500/000000/codepen.png" width="40" height="40" /></a>
-  <a href="https://t.me/A_Ilhom" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/sf-black-filled/512/26a5e4/telegram.png" width="40" height="40" /></a>
+   <a href="https://t.me/A_Ilhom" target="_blank" rel="noreferrer">
+     <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=TELEGRAM&logoColor=FFFFFF"/>
+  </a>
+  <a href="https://www.codepen.io/IlhomAliyev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CODEPEN-FFFFFF?style=for-the-badge&logo=CODEPEN&logoColor=000000"/>
+  </a>
 </p>
+
+<b>English level: Intermediate</b>
