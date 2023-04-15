@@ -1,9 +1,6 @@
 Hi there, I'm Ilhom (Front-end Web Developer) 👋
 =============================================================================================================================
 
-*   ✉️  E-mail: [ilhomaliyev@yandex.com](mailto:ilhomaliyev@yandex.com)
-*   ✈️  Telegram: https://t.me/A_Ilhom
-
 ### Skills 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -25,7 +22,6 @@ Hi there, I'm Ilhom (Front-end Web Developer) 👋
                     
 ### Socials
 <p align="left">
-  <a href="https://www.codepen.io/IlhomAliyev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
-  <a href="https://www.github.com/IlhomAliyev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://t.me/A_Ilhom" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/telegram.png" width="32" height="32" /></a>
+  <a href="https://www.codepen.io/IlhomAliyev" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/500/000000/codepen.png" width="40" height="40" /></a>
+  <a href="https://t.me/A_Ilhom" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/sf-black-filled/512/26a5e4/telegram.png" width="40" height="40" /></a>
 </p>
