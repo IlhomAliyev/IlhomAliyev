@@ -1,10 +1,8 @@
-Hi there, I'm Ilhom 👋
+Hi there, I'm Ilhom (Front-end Web Developer) 👋
 =============================================================================================================================
 
-Front-end Web Developer
------------------------
-
-*   ✉️  You can contact me at [ilhomaliyev@yandex.com](mailto:ilhomaliyev@yandex.com)
+*   ✉️  E-mail: [ilhomaliyev@yandex.com](mailto:ilhomaliyev@yandex.com)
+*   ✈️  Telegram: https://t.me/A_Ilhom
 
 ### Skills 
 <p align="left">
@@ -27,6 +25,7 @@ Front-end Web Developer
                     
 ### Socials
 <p align="left">
-<a href="https://www.codepen.io/IlhomAliyev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/IlhomAliyev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.codepen.io/IlhomAliyev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/IlhomAliyev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://t.me/A_Ilhom" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/telegram.png" width="32" height="32" /></a>
 </p>
