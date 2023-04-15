@@ -8,7 +8,7 @@ Hi there, I'm Ilhom 👋
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/CssModules-000000?style=for-the-badge&logo=cssmodules&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/CssModules-FFFFFF?style=for-the-badge&logo=cssmodules&logoColor=000000" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=React&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=REDUX&logoColor=FFFFFF"/>
