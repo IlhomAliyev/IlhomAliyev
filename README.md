@@ -44,5 +44,3 @@ Hi there, I'm Ilhom 👋
     <img src="https://img.shields.io/badge/CODEPEN-FFFFFF?style=for-the-badge&logo=CODEPEN&logoColor=000000"/>
   </a>
 </p>
-
-<b>English level: Intermediate</b>
