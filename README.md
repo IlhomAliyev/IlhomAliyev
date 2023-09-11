@@ -11,7 +11,7 @@ Hi there, I'm Ilhom 👋
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/CssModules-FFFFFF?style=for-the-badge&logo=cssmodules&logoColor=000000" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/styled-components-CC6699?style=for-the-badge&logo=styled-components&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/styled-000?style=for-the-badge&logo=styled-components&logoColor"/>
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=React&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=REDUX&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/ReduxToolkit-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
