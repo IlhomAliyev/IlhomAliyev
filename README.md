@@ -30,7 +30,7 @@ Hi there, I'm Ilhom 👋
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=FFFFFF"/>
 </p>
 
-### The technologies I'm currently studying
+### Technologies I am familiar with
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black" />
   <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=VUE.JS&logoColor=FFFFFF"/>
