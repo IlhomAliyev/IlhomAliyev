@@ -12,6 +12,8 @@ Hi there, I'm Ilhom 👋
   <img src="https://img.shields.io/badge/CssModules-FFFFFF?style=for-the-badge&logo=cssmodules&logoColor=000000" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/styled-000?style=for-the-badge&logo=styled-components&logoColor"/>
+  <img src="https://img.shields.io/badge/tailwind-38BDF9?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black" />
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=React&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=REDUX&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/ReduxToolkit-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
@@ -32,7 +34,6 @@ Hi there, I'm Ilhom 👋
 
 ### Technologies I am familiar with
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black" />
   <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=VUE.JS&logoColor=FFFFFF"/>
 </p>
                     
