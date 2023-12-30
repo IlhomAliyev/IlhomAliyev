@@ -18,6 +18,7 @@ Hi there, I'm Ilhom 👋
   <img src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=REDUX&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/ReduxToolkit-7248b5?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/ReduxSaga-gray?style=for-the-badge&logo=reduxsaga&logoColor=7ecc61" />
+  <img src="https://img.shields.io/badge/ReactQuery-00435B?style=for-the-badge&logo=reactquery&logoColor=FF4154" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/ESlint-462fb9?style=for-the-badge&logo=eslint&logoColor=white" />  
   <img src="https://img.shields.io/badge/GULP-dc4a4d?style=for-the-badge&logo=GULP&logoColor=white" />
