@@ -24,6 +24,9 @@ Hi there, I'm Ilhom 👋
   <img src="https://img.shields.io/badge/GULP-dc4a4d?style=for-the-badge&logo=GULP&logoColor=white" />
   <img src="https://img.shields.io/badge/Webpack-1a72b6?style=for-the-badge&logo=webpack&logoColor=white" />
   <img src="https://img.shields.io/badge/VITE-white?style=for-the-badge&logo=VITE&logoColor=f2ce30" />
+  <img src="https://img.shields.io/badge/chakra-1A202C?style=for-the-badge&logo=chakra-ui&logoColor=81E6D9" />
+  <img src="https://img.shields.io/badge/ant.design-0F6DFF?style=for-the-badge&logo=antdesign&logoColor=F63A49" />
+  <img src="https://img.shields.io/badge/material.ui-006AD3?style=for-the-badge&logo=mui&logoColor=fff" />
 </p>
 
 ### Other skills
