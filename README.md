@@ -1,7 +1,10 @@
-Hi there, I'm Ilhom 👋
-=============================================================================================================================
+# Welcome to My GitHub Profile
 
-👨🏻‍💻 Front-end Engineer<br/>
+Hi, I'm Ilhom 👋<br />
+I'm a frontend engineer passionate about creating intuitive and efficient user interfaces.<br />
+<i>Here you'll find my hobby projects and personal experiments. My main professional development work is managed on Bitbucket and GitLab.</i>
+
+===================================================================================
 
 ### Skills
 <p align="left">
